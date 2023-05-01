@@ -2,7 +2,7 @@
   "name": "icosahedron-cellular-automata",
   "version": "1.0.0",
   "description": "Cellular automata on icosahedral sphere based on three.js",
-  "main": "ca-icosahedron.js",
+  "main": "src/Engine.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/maalls/icosahedron-cellular-automata"
